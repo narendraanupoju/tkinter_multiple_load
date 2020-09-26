@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 26 15:02:10 2020
 
-@author: feuer
-"""
 import tkinter,tkinter.filedialog
 from tkinter import messagebox
 
